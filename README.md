@@ -80,8 +80,9 @@ Here is what you can build with this repository:
 
 🖼️ Image Search: Upload a photo to find similar photos.
 
-<div align="center"> <img src="https://www.google.com/search?q=https://placehold.co/800x300/1e1e2e/FFF%3Ftext%3DDiagram:%2BHow%2BEmbeddings%2BWork" alt="Embedding Diagram"> </div>
-
+<div align="center">
+  <img src="https://placehold.co/800x300/1e1e2e/FFF?text=Diagram:+How+Embeddings+Work" alt="Embedding Diagram">
+</div>
 🤝 Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
