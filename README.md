@@ -69,12 +69,33 @@ Follow these steps to get your own vector search engine running in minutes.
 git clone [https://github.com/bxbee/Qdrant_for_everyone.git](https://github.com/bxbee/Qdrant_for_everyone.git)
 cd Qdrant_for_everyone
 ```
-Step 2: Run Qdrant with DockerWe use Docker to spin up the Qdrant server instantly.Bashdocker pull qdrant/qdrant
-docker run -p 6333:6333 qdrant/qdrant
-<div align="center"><img src="https://www.google.com/search?q=https://placehold.co/600x200/222/FFF%3Ftext%3DScreenshot:%2BDocker%2BTerminal%2BOutput" alt="Docker Running"></div>Step 3: Install Python ClientBashpip install qdrant-client
-Step 4: Run Your First SearchCheck the examples/ folder for the basic_search.py script.Pythonfrom qdrant_client import QdrantClient
-from qdrant_client.models import PointStruct
+🌟 Features & Uses
+Here is what you can build with this repository:
 
-client = QdrantClient(host="localhost", port=6333)
-print("Qdrant is running!")
-📺 Video GuidesClick the images below to watch the step-by-step video tutorials on YouTube.1. Installing Qdrant2. Your First Collection3. Semantic Search DemoSetting up Docker & EnvironmentCreating Points & VectorsBuilding a Movie RecommenderNote 🌟 Features & UsesHere is what you can build with this repository:🔍 Semantic Search: Search by meaning, not just keywords (e.g., searching "scary movie" finds "The Shining").🛍️ Recommendation System: "Users who bought X also liked Y."🤖 Chatbot Memory: Give your LLMs (like GPT) long-term memory.🖼️ Image Search: Upload a photo to find similar photos.<div align="center"><img src="https://www.google.com/search?q=https://placehold.co/800x300/1e1e2e/FFF%3Ftext%3DDiagram:%2BHow%2BEmbeddings%2BWork" alt="Embedding Diagram"></div>🤝 ContributingContributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.Fork the ProjectCreate your Feature Branch (git checkout -b feature/AmazingFeature)Commit your Changes (git commit -m 'Add some AmazingFeature')Push to the Branch (git push origin feature/AmazingFeature)Open a Pull Request<div align="center">Show your support!Give a ⭐️ if this project helped you!<small>Maintained by <a href="https://www.google.com/search?q=https://github.com/bxbee">Raj Ghosh</a></small></div>
+🔍 Semantic Search: Search by meaning, not just keywords (e.g., searching "scary movie" finds "The Shining").
+
+🛍️ Recommendation System: "Users who bought X also liked Y."
+
+🤖 Chatbot Memory: Give your LLMs (like GPT) long-term memory.
+
+🖼️ Image Search: Upload a photo to find similar photos.
+
+<div align="center"> <img src="https://www.google.com/search?q=https://placehold.co/800x300/1e1e2e/FFF%3Ftext%3DDiagram:%2BHow%2BEmbeddings%2BWork" alt="Embedding Diagram"> </div>
+
+🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+<div align="center">
+
+Show your support!
+Give a ⭐️ if this project helped you!
