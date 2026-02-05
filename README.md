@@ -39,7 +39,7 @@
 * **AI Ready:** Perfect for RAG (Retrieval Augmented Generation), Semantic Search, and Recommendation Systems.
 
 <div align="center">
-  <img src="https://sl.bing.net/goSnSEhtteK">
+  <img src="[https://sl.bing.net/goSnSEhtteK](https://opendatascience.com/wp-content/uploads/2022/10/LH2.png)">
   <br>
   <i>(Visualizing how Vector Search finds similar items instantly)</i>
 </div>
