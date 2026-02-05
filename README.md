@@ -39,7 +39,7 @@
 * **AI Ready:** Perfect for RAG (Retrieval Augmented Generation), Semantic Search, and Recommendation Systems.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY255ODZ6eGc1eHh6eGc1eHh6eGc1eHh6eGc1eHh6eGc1eHh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVThqceKXW5U49/giphy.gif" width="600" alt="Animated AI Search GIF">
+  <img src="https://sl.bing.net/goSnSEhtteK">
   <br>
   <i>(Visualizing how Vector Search finds similar items instantly)</i>
 </div>
