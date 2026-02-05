@@ -78,10 +78,9 @@ Here is what you can build with this repository:
 
 🤖 Chatbot Memory: Give your LLMs (like GPT) long-term memory.
 
-🖼️ Image Search: Upload a photo to find similar photos.
 
 <div align="center">
-  <img src="https://placehold.co/800x300/1e1e2e/FFF?text=Diagram:+How+Embeddings+Work" alt="Embedding Diagram">
+  <img src="https://qdrant.tech/articles_data/what-are-embeddings/How-Embeddings-Work.jpg">
 </div>
 🤝 Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
