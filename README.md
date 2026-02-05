@@ -68,6 +68,7 @@ Follow these steps to get your own vector search engine running in minutes.
 ```bash
 git clone [https://github.com/bxbee/Qdrant_for_everyone.git](https://github.com/bxbee/Qdrant_for_everyone.git)
 cd Qdrant_for_everyone
+```
 Step 2: Run Qdrant with DockerWe use Docker to spin up the Qdrant server instantly.Bashdocker pull qdrant/qdrant
 docker run -p 6333:6333 qdrant/qdrant
 <div align="center"><img src="https://www.google.com/search?q=https://placehold.co/600x200/222/FFF%3Ftext%3DScreenshot:%2BDocker%2BTerminal%2BOutput" alt="Docker Running"></div>Step 3: Install Python ClientBashpip install qdrant-client
