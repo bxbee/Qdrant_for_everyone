@@ -52,7 +52,7 @@ We use the best open-source tools to make this happen:
 
 | Core | Language | Containerization | 
 | :---: | :---: | :---: |
-| <img src="https://qdrant.tech/images/logo.svg" width="50" alt="Qdrant"> <br> **Qdrant** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python"> <br> **Python** | <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" alt="Docker"> <br> **Docker** |
+| <img src="https://qdrant.tech/img/qdrant-logo.svg" width="50" alt="Qdrant"> <br> **Qdrant** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python"> <br> **Python** | <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" alt="Docker"> <br> **Docker** |
 
 ---
 
