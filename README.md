@@ -1,4 +1,4 @@
-# Qdrant_for_everyone
+# Qdrant For Everyone 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F52828&center=true&vCenter=true&width=600&lines=Welcome+to+Qdrant_for_everyone;The+Easiest+Way+to+Learn+Vector+Search;Beginner+Friendly+%7C+Open+Source+%7C+Fast" alt="Typing SVG" />
