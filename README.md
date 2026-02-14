@@ -66,7 +66,7 @@ Follow these steps to get your own vector search engine running in minutes.
 
 ### Step 1: Clone the Repo
 ```bash
-git clone [https://github.com/bxbee/Qdrant_for_everyone.git](https://github.com/bxbee/Qdrant_for_everyone.git)
+git clone https://github.com/bxbee/Qdrant_for_everyone.git
 cd Qdrant_for_everyone
 ```
 🌟 Features & Uses
