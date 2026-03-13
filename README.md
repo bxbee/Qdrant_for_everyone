@@ -31,7 +31,7 @@
 
 ## 📖 About The Project
 
-**Qdrant_for_everyone** is designed to demystify Vector Search. Whether you are a student, a hobbyist, or a developer looking to integrate AI search into your app, this repo provides the building blocks you need.
+**Qdrant_for_everyone** is designed to understand Vector Search. Whether you are a student, a hobbyist, or a developer looking to integrate AI search into your app, this repo provides the building blocks you need.
 
 ### Why Qdrant?
 * **Fast & Scalable:** Built in Rust for high performance.
